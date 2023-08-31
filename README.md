@@ -54,6 +54,7 @@ Be sure to read all the FAQs above before proceeding to later sections. In summa
 
 # **III. Intervals**
 
+The idea of intervals seems to stump most sniping beginners. This feature is relatively new in the history of sniping. On September 13, 2022, Mojang [made the username history API private](https://help.minecraft.net/hc/en-us/articles/8969841895693-Username-History-API-Removal-FAQ-). This made it impossible for 3rd-party sites like NameMC, 3NAME, Laby, etc. to access your name history. Instead, these websites have resorted to using their own databases, which allow for the continuity of name history, albeit less accurate than before. One of those inaccuracies is deriving the precise time a username is changed. Since the API is private, NameMC/3NAME/Laby cannot fetch the change time from the API and must instead create two intervals when the name might drop. The username in question will always free up between these two intervals. Depending on the frequency of updates on the name's profile, the interval range can be shorter or longer. This means accounts that have less active viewers will have greater interval durations if they decide to change their name.
 
 -------------------------------------------
 
@@ -76,7 +77,7 @@ Lastly, you have the option to snipe with accounts that already have a set usern
 
 # **V. Multiple Account Sniping**
 
-In order to be a prolific sniper, you will need residential proxies to send requests from more than one account.
+In order to be a prolific sniper, you'll need residential proxies to send requests from more than one account at once.
 
 -------------------------------------------
 

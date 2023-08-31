@@ -46,7 +46,7 @@ Be sure to read all the FAQs above before proceeding to later sections. In summa
 ## TL;DR
 
 - You will not get a 3-character name without a using bot.
-- - You will not get a 3-character name without spending money.
+- You will not get a 3-character name without spending money.
 - You will not get a 3-character name without using multiple accounts to snipe.
 - You will not get a 3-character name by sniping at *one* of the intervals. You must send requests **every second** between the two intervals.
 

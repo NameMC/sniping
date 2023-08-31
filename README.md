@@ -43,6 +43,13 @@ No. You will need a Minecraft: Java Edition account to claim a 3-character name.
 ## Conclusion
 Be sure to read all the FAQs above before proceeding to later sections. In summary, you should expect to spend **hundreds of dollars for accounts and residential proxies to snipe with** and **tens, maybe hundreds of hours** on perfecting your sniping technique. If you don't have the time nor money to get a sniper up and running, **do not waste your time sniping through alternative methods**. I am saying this for your sake, not mine (I don't even snipe anymore!): You will not get a 3-character name, "semi-OG", or "OG" name by using only 1 account to snipe with. Also, it's impossible to snipe one without a bot. So, don't bother "hand-sniping". 
 
+##TL;DR
+
+- You will not get a 3-character name without a bot.
+- You will not get a 3-character name without using multiple accounts to snipe.
+- You will not get a 3-character name without spending money.
+- You will not get a 3-character name by sniping at *one* of the intervals. You must send requests **every second** between the two intervals.
+
 -------------------------------------------
 
 # **III. Rate-limit**
@@ -56,4 +63,4 @@ As you can see, there's a visible advantage to using accounts with unset usernam
 
 # **IV. Delete Transferring**
 
-Alternatively, you can "delete transfer" the name on the Game Pass account to another account, such as a Minecon Cape account or a main account. This makes Game Pass accounts highly sought after because OGs, semi-OGs, and 3-character names can be moved to cape accounts. 
+Alternatively, you can "delete transfer" the name on a Game Pass account to another account, such as a Minecon Cape account or a main account. This makes Game Pass accounts highly sought after because OGs, semi-OGs, and 3-character names can be moved to cape accounts or your personal account. Most people don't want to spend hundreds of dollars and hundreds of hours setting up a name sniper, so instead, they just buy a 3-character name off a sniper for $35. The price may vary depending on how desirable the name is, however, $35 is a good baseline to start from. If you choose to delete transfer the 3-character name to your main account, this doesn't actually violate the EULA or TOS because the account the name is being swapped to is your own, personal, legitimate account. The Game Pass account the 3-character name was originally on is violating the EULA/TOS, but you won't need the account after transferring the name. 

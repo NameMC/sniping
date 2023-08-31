@@ -64,5 +64,5 @@ As you can see, there's a visible advantage to using accounts with unset usernam
 # **IV. Delete Transferring**
 
 Alternatively, you can "delete transfer" the name on a Game Pass account to another account, such as a Minecon Cape account or a main account. This makes Game Pass accounts highly sought after because OGs, semi-OGs, and 3-character names can be moved to cape accounts or your personal account. Most people don't want to spend hundreds of dollars and hundreds of hours setting up a name sniper, so instead, they just buy a 3-character name off a sniper for $35. The price may vary depending on how desirable the name is, however, $35 is a good baseline to start from. If you choose to delete transfer the 3-character name to your main account, this doesn't actually violate the EULA or TOS because the account the name is being swapped to is your own, personal, legitimate account. The Game Pass account the 3-character name was originally on is violating the EULA/TOS, but you won't need the account after transferring the name. 
-```sh
+
 > DISCLAIMER: THIS ARTICLE DOES NOT PROMOTE ACCOUNT BUYING, SELLING, OR DISTRIBUTING. PROCEED WITH CAUTION WHEN PURCHASING MINECRAFT ACCOUNTS. IT IS AGAINST MOJANG/MICROSOFT'S EULA/TOS TO BUY, SELL, OR DISTRIBUTE ACCOUNTS.

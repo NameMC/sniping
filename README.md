@@ -30,8 +30,8 @@ An interval defines the start or end of a duration when something happens. In th
 
 ### ➤ I see some available 3-character names like PLQ, U40, and DLK. Why aren't people claiming them?
 
-These names are blocked. There used to be hundreds of blocked 3-character names and there even used to be the ability to block names (temporarily) at will. This is no longer possible. It's incredibly unlikely any names that are blocked now will be unblocked in the future. Don't waste your time trying to autoclaim blocked 3-character names; focus on names that are dropping instead.
+These names are blocked. There used to be hundreds of blocked 3-character names and there even used to be the ability to block names (temporarily) at will. This is no longer possible. It's incredibly unlikely any names that are blocked now will be unblocked in the future. Don't waste your time trying to auto-claim blocked 3-character names (people have bots for those too!). Focus on names that are dropping instead.
 
 ### ➤ Am I able to get a 3-character name for free?
 
-No. You will need a Minecraft: Java Edition account to claim a 3-character name. To snipe one though, you would need over 100 accounts——more about this in `Section ?`. You have to be incredibly lucky to get a 3-character name by means other than sniping. It's statistically improbable that a 3-character account gets deleted and you happen to claim it before an auto-claim bot does.
+No. You will need a Minecraft: Java Edition account to claim a 3-character name. To snipe one though, you would need over 100 accounts——more about this in `Section ?`. You have to be very lucky to get a 3-character name by means other than sniping. It's statistically improbable that a 3-character account gets deleted and that you happen to claim it before an auto-claim bot does.

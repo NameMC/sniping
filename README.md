@@ -17,10 +17,15 @@ Around a year ago I made a [Minecraft sniping guide](https://github.com/NameMC/B
 I've seen these questions asked numerous times. If you're just getting involved with name sniping, chances are, one of these questions is of interest to you. I would also consider reading this section before investing time and money in sniping because it may not be worth it for you.
 
 Q. Should I use an autoclicker to snipe?
+
 A. No, this will not work. There's a reason nobody does this; you can only send so many name-change requests before being rate-limited. Past that threshold, any outgoing requests will be null. Please view `Section ?` for more information regarding the rate-limit.
 
+
 Q. What's an interval? Why are there two different times displayed on NameMC/3NAME?
+
 A. An interval defines the start or end of a duration when something happens. In this case, the two intervals define when the name will become available. This is also called the "drop time". There is no way to know the exact drop time of the name unless you changed the name yourself and documented the time. For sniping, this means sending *constant* requests throughout the entire interval in hopes of being the first person to claim the name. More about this in `Section ?`.
 
+
 Q. Do I need a bot to snipe?
+
 A. *Absolutely*. If you don't have a bot, you will not get a 3-character name or any desirable username. If you want to snipe a name that has very little views, you may be able to obtain it. However, for any names that are considered "desirable", a bot is *absolutely necessary* to snipe the name. A free, open-source sniping bot is available for you to download in `Section ?`. 

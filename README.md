@@ -35,3 +35,6 @@ These names are blocked. There used to be hundreds of blocked 3-character names 
 ### ➤ Am I able to get a 3-character name for free?
 
 No. You will need a Minecraft: Java Edition account to claim a 3-character name. To snipe one though, you would need over 100 accounts——more about this in `Section ?`. You have to be very lucky to get a 3-character name by means other than sniping. It's statistically improbable that a 3-character account gets deleted and that you happen to claim it before an auto-claim bot does.
+
+## Conclusion
+Be sure to read all the FAQs above before proceeding to later sections. In summary, you should expect to spend **hundreds of dollars for accounts and residential proxies to snipe with** and **tens, maybe hundreds of hours** on perfecting your sniping technique. If you don't have the time nor money to get a sniper up and running, **do not waste your time sniping through alternative methods**. 

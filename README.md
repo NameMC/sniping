@@ -112,4 +112,6 @@ As I mentioned in earlier sections, this article includes a link to a sniping bo
 
 # **VIII. Conclusion**
 
-I hope this article was insightful for you. If you're new to sniping, there are many things to learn before beginning or even considering whether you *should* begin. I will remind you to check the FAQ in `Section II` if you haven't already, as it's a good reference for whether you should invest into sniping. There's a lot more to learn about sniping; this guide is just meant to introduce you to some of the rudimentary concepts. I wish you the best of luck on your endeavors.
+I hope this article was insightful for you. If you're new to sniping, there are many things to learn before beginning or even considering whether you *should* begin. I will remind you to check the FAQ in `Section II` if you haven't already, as it's a good reference for whether you should invest into sniping. There's a lot more to learn about sniping; this guide is just meant to introduce you to some of the rudimentary concepts. Also, sniping technically doesn't exist anymore. The proper term now is "claiming". Since we no longer have the precise droptime of a name, it's not a competition of who can snipe the name first. Instead, it's a competition of who can run their accounts on a name the longest and have the largest spread of requests over the drop interval. 
+
+I wish you the best of luck on your endeavors.

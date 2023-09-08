@@ -101,3 +101,9 @@ To delete transfer a name using a Game Pass account, you'll first have to acquir
 Game Pass delete transferring will no longer be possible past September 19, 2023. That's because Mojang is [no longer offering Mojang accounts the option to migrate](https://www.minecraft.net/en-us/article/account-migration-last-call) past that date. Should you want to transfer a Game Pass name, now would be the best time to do so.
 
 > DISCLAIMER: THIS ARTICLE DOES NOT PROMOTE ACCOUNT BUYING, SELLING, OR DISTRIBUTING. PROCEED WITH CAUTION WHEN PURCHASING MINECRAFT ACCOUNTS. IT IS AGAINST MOJANG/MICROSOFT'S EULA/TOS TO BUY, SELL, OR DISTRIBUTE ACCOUNTS.
+
+-------------------------------------------
+
+# **VII. MCSniperGO: A Free, Easy to Use, Sniping Bot**
+
+As I mentioned in earlier sections, this article includes a link to a sniping bot for you to use. It's completely free, easy to install, and it's open-source if you're concerned about it being malware. You can find the GitHub installation page [here](https://github.com/Kqzz/MCsniperGO), a guide made by its creator [here](https://www.youtube.com/watch?v=gYBQQih-cMU), and the Discord server [here](https://discord.gg/mcsnipergo-734794891258757160), should you have any questions on the installation process. 

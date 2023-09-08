@@ -61,7 +61,7 @@ Depending on the frequency of updates on the desired name's profile, the interva
 - The last time the profile was viewed with a previous username
 - The first time the profile was viewed with a new username
 
-Suppose the name "John" was viewed a day ago. Then, the same person decided to view the profile today. Since the last update, John's name has been changed to John2. The interval will be `±1 day` since that was the difference between the two profile updates.
+Suppose the name "John" was viewed a day ago. Then, the same person decided to view the profile today. Since the last update, John's name has been changed to John2. The interval will be `±1 day` since that was the difference between the two profile updates. This would result in an interval of `2 days`.
 
 -------------------------------------------
 
@@ -84,7 +84,7 @@ Lastly, you have the option to snipe with accounts that already have a set usern
 
 # **V. Multiple Account Sniping**
 
-In order to be a prolific sniper, you'll need residential proxies to send requests from more than one account at once.
+In order to be a prolific sniper, you'll need residential proxies to send requests from more than one account at once. As mentioned in the previous section, the most common resources for sniping are Game Pass accounts. They perform the same job as gift cards and normal name-change accounts; that is, they reserve a username for the person who successfully snipes it. Game Pass accounts are cheaper than gift cards, thus, you are able to obtain a greater amount of them with the same budget. However, there is a rate-limit which restricts the amount of name-change requests a user can send from the same IP. Previously, you could use non-residential proxies to bypass this. Unfortunately, at some point, Mojang stopped taking requests from non-residential proxies. So, you'll need a mass ammount of residential proxies to snipe. This is a topic I'm not too familiar with, so I would advise you to do your own research on obtainiing residential proxies. The free sniper included in this article has proxy support, so you shouldn't have trouble configuring it. More about that in `Section ?`.
 
 -------------------------------------------
 
